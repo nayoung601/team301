@@ -15,4 +15,4 @@
 MLAC
 Machine Learning Access Control
 
-MLAC example
+Machine Learning Access Control example
